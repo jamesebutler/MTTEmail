@@ -1,0 +1,12 @@
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Debug\MTTEmail.exe.config
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Debug\MTTEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Debug\MTTEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Debug\MTTEmail.xml
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.Resources.resources
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.vbproj.GenerateResource.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.vbproj.CoreCompileInputs.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.vbproj.CopyComplete
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.xml
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Debug\MTTEmail.vbprojAssemblyReference.cache

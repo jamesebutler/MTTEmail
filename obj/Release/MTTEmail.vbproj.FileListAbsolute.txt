@@ -1,0 +1,14 @@
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Release\MTTEmail.exe.config
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Release\MTTEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Release\MTTEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Release\MTTEmail.xml
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Release\Devart.Data.dll
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\bin\Release\Devart.Data.Oracle.dll
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.Resources.resources
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.vbproj.GenerateResource.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.vbproj.CoreCompileInputs.cache
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.vbproj.CopyComplete
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.exe
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.xml
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.pdb
+C:\Users\james.butler\Documents\Visual Studio 2017\Projects\MTTEmail\obj\Release\MTTEmail.vbprojAssemblyReference.cache
